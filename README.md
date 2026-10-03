@@ -8,7 +8,7 @@ An end-to-end data analysis and web application project for analyzing e-commerce
 
 This repository contains an exploratory data analysis workflow and an interactive Streamlit dashboard (`ap.py`) designed to visualize e-commerce transaction data. The project cleans raw transactional logs, performs RFM (Recency, Frequency, Monetary) and trend analysis, and builds machine learning models to extract actionable business insights.
 
-Key highlights:
+Key highlights: 
 - **Interactive Streamlit Web App**: Filter by date ranges and countries with real-time KPI metrics and Plotly/Matplotlib charts.
 - **Exploratory Data Analysis (EDA)**: Jupyter Notebook (`Ecommerce_Analysis.ipynb`) detailing data preprocessing, outlier removal, feature engineering, and statistical modeling.
 - **Machine Learning**: Linear regression models analyzing actual vs. predicted purchase values.
