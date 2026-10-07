@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales Analysis & Interactive Dashboard
 
 An end-to-end data analysis and web application project for analyzing e-commerce transactions, understanding customer buying patterns, visualizing sales trends, and predicting purchase metrics.
-     
+                 
 ---                      
             
 ## 📌 Project Overview                        
