@@ -4,7 +4,7 @@ An end-to-end data analysis and web application project for analyzing e-commerce
                  
 ---                      
             
-## 📌 Project Overview                        
+## 📌 Project Overview                                          
 
 This repository contains an exploratory data analysis workflow and an interactive Streamlit dashboard (`ap.py`) designed to visualize e-commerce transaction data. The project cleans raw transactional logs, performs RFM (Recency, Frequency, Monetary) and trend analysis, and builds machine learning models to extract actionable business insights.
 
